@@ -12,4 +12,4 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=daiyabarus&show_icons=true&locale=en&layout=compact" alt="daiyabarus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daiyabarus&show_icons=true&locale=en" alt="daiyabarus" /></p>
+<p>&nbsp;<img align="Left" src="https://github-readme-stats.vercel.app/api?username=daiyabarus&show_icons=true&locale=en" alt="daiyabarus" /></p>
