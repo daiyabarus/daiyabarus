@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Daiya Barus</h1>
-<h3 align="center">Engineer and Researcher</h3>
+<h3 align="center">I'm Engineer and Researcher</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
